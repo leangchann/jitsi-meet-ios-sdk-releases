@@ -12,6 +12,9 @@
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
+				<string>armv7</string>
+				<string>armv7s</string>
+				<string>i386</string>
 				<string>x86_64</string>
 			</array>
 			<key>SupportedPlatform</key>
